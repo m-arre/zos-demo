@@ -1,7 +1,7 @@
 ---
 bc:
     size: '0x0'
-    start: '0x3f450000'
+    start: '0x3f460000'
 cc:
     size: 0
     start: '0x40220000'
@@ -18,7 +18,7 @@ fs:
     size: 7208960
     start: '0x920000'
 os:
-    heap_end: '0x3ffd4f5c'
-    size: '0x1b3b50'
+    heap_end: '0x3ffd708c'
+    size: '0x1b7190'
     start: '0x400D0018'
 ...
