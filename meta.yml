@@ -18,7 +18,7 @@ fs:
     size: 7208960
     start: '0x920000'
 os:
-    heap_end: '0x3ffd708c'
-    size: '0x1b7190'
+    heap_end: '0x3ffd7124'
+    size: '0x1b7280'
     start: '0x400D0018'
 ...
